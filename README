@@ -1,5 +1,1 @@
-I designed this model to predict house prices in Chicago based on various property features,
-Such as the number of bedrooms and bathrooms, size, tax , and condition of the house.
-To achieve this, i used two types of regression models: Linear Regression and XGBoost (Extreme Gradient Boosting)
-Linear regression as a baseline for comparison, \nAnd XGBoost as the primary model to maximize predictive accuracy.
-In addition to linear regression, I implemented a Random Forest Regression model to improve predictive accuracy.
+I designed this model to predict house prices in Chicago based on various property features, such as the number of bedrooms and bathrooms, size, tax, and condition of the house. To achieve this, I used Linear Regression as a baseline for comparison and XGBoost (Extreme Gradient Boosting) as the primary model to maximize predictive accuracy. Additionally, I implemented a Random Forest Regression model to further enhance predictive performance.
